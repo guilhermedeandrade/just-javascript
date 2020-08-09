@@ -1,0 +1,15 @@
+{
+  "name": "just-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:guilhermedeandrade/just-javascript.git",
+  "author": "Guilherme de Andrade <guilhermedeandrade@protonmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "prettier": "^2.0.5"
+  }
+}
